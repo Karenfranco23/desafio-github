@@ -1,0 +1,7 @@
+link do repositorio para git clone: 
+https://github.com/Karenfranco23/desafio-github.git
+
+Como clonar um repositório:
+
+1) Abrir a pasta onde será salvo o repositorio e clicar em "Git Bash Here";
+2) Dar o comando git clone e em seguida colar o link do repositorio em HTTPS;
